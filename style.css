@@ -96,7 +96,7 @@ canvas{
 }
 #page>h3{
     position: absolute;
-    top: 55%;
+    top: 65%;
     font-family: gilroy;
     font-weight: 400;
     color: #7c7c7c;
@@ -104,7 +104,7 @@ canvas{
 }
 #page>h4{
     position: absolute;
-    top: 62%;
+    top: 65%;
     left: 25%;
     font-family: gilroy;
     font-weight: 500;
